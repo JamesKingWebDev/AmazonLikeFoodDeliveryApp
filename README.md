@@ -1,2 +1,2 @@
 # AmazonLikeFoodDelivery
-Food Delivery App
+Food Delivery App built on Javascript.

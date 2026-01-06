@@ -11,7 +11,7 @@
             $scope.features = true;
             $scope.lrg_image = "/"+window.image1;
         	$scope.magic_zoom = window.image1;
-
+ 
         	function checksession()  {
                 console.log("in checksession");
         		if(window.session == true)

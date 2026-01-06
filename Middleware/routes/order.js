@@ -5,8 +5,6 @@ var ejs = require("ejs");
 
 
 
-
-
 //get Order Details
 
 
