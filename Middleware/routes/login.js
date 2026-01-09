@@ -2,7 +2,6 @@
 -------Created by Aashay Shah 4/19/16-------
 -------Sign in and sign up related operations-------
 */
-
 //REQUIRE FILES
 // var bcrypt = require('./bCrypt');
  var bcrypt = require('bcrypt-nodejs');

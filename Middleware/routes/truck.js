@@ -23,7 +23,7 @@ exports.getTrucks = function(req, res) {
 
 }
 
-//create Truck
+//create a new Truck
 exports.createTruck = function(req, res) {
 
 	//truck number as parameter

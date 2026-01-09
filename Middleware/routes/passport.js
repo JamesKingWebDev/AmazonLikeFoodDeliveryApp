@@ -10,7 +10,6 @@ var LocalStrategy = require("passport-local").Strategy;
 
 module.exports = function(passport){
 
-
 	passport.use('farmerLogin', new LocalStrategy(function(username, password, done) {
 		//console.log("hey");
 		process.nextTick(function(){

@@ -12,7 +12,6 @@ exports.list = function(req, res){
 
 
 
-
 exports.getAddress = function(req,res){
 
 	var msg_payload = {

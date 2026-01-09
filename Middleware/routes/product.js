@@ -9,7 +9,6 @@ var resGen = require('./commons/responseGenerator');
 
 var Product = require('./model/product');
 
-
 /*uploadFilename = "";
 
 var storage = multer.diskStorage({ //multers disk storage settings

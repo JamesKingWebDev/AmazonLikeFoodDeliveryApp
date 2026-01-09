@@ -4,7 +4,6 @@ var resGen = require('./commons/responseGenerator');
 var ejs = require("ejs");
 
 
-
 //get Order Details
 
 

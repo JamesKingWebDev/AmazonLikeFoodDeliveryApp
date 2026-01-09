@@ -14,6 +14,7 @@ exports.index = function(req, res){
 	// 		res.render('index');
 	// 	}
 	// });
+	// console.log(req);
 
 	//INSER NEW PRODUCT
 	// var p = new Product();

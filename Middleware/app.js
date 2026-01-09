@@ -22,7 +22,6 @@ var express = require('express')
 var passport = require('passport');
 require('./routes/passport')(passport);
 
-
 var mongoose = require('mongoose');
 mongoose.connect("mongodb://localhost/amazon");
 
@@ -32,7 +31,7 @@ var mongoStore = require("connect-mongo")(expressSession);
 
 var app = express();
 
-// all environments
+// every of the environments set
 app.set('port', process.env.PORT || 3000);
 app.set('views', __dirname + '/views');
 app.set('view engine', 'ejs');
