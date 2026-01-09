@@ -22,6 +22,7 @@ var express = require('express')
 var passport = require('passport');
 require('./routes/passport')(passport);
 
+
 var mongoose = require('mongoose');
 mongoose.connect("mongodb://localhost/amazon");
 

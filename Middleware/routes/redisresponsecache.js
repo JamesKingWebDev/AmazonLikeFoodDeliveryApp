@@ -13,5 +13,4 @@ function getClient (){
 	  return client;	
 }
 
-
 exports.getClient=getClient;

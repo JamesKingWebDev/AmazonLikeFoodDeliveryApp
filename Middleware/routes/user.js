@@ -7,7 +7,6 @@ var isValidZip = require('is-valid-zip');
 exports.list = function(req, res){
   res.send("respond with a resource");
 
-  
 };
 
 

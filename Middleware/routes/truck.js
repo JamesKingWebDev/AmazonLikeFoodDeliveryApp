@@ -20,6 +20,7 @@ exports.getTrucks = function(req, res) {
 		} else
 			res.send(JSON.parse(results));
 	});
+	
 
 }
 

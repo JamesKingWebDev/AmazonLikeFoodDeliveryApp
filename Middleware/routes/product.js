@@ -1,4 +1,4 @@
-//
+// Comment
 
 var ejs = require("ejs");
 var mq = require('../rpc/client');
