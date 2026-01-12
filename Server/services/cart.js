@@ -2,7 +2,6 @@ var Product = require('./model/product');
 var Cart = require('./model/cart');
 var Farmer = require('./model/farmer');
 
-
 exports.cartItems = function(req, callback){
 	c_id = req.c_id;
 	// console.log(c_id);
